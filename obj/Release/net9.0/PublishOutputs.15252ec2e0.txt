@@ -1,0 +1,1 @@
+C:\H\blazor\MyBlazorApp\bin\Release\net9.0\publish\web.config
