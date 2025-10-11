@@ -1,0 +1,38 @@
+﻿@page "/calculator"
+@using System.Globalization
+
+<h3>🧮 Calculator</h3>
+
+<div class="mb-3">
+    <input type="number" @bind="number1" placeholder="Number 1" />
+    <input type="number" @bind="number2" placeholder="Number 2" />
+</div>
+
+<div class="mb-3">
+    <button class="btn btn-primary" @onclick="Add">➕ Add</button>
+    <button class="btn btn-secondary" @onclick="Subtract">➖ Subtract</button>
+    <button class="btn btn-success" @onclick="Multiply">✖ Multiply</button>
+    <button class="btn btn-danger" @onclick="Divide">➗ Divide</button>
+</div>
+
+@if (result.HasValue)
+{
+    <h4>Result: @result.Value.ToString(CultureInfo.InvariantCulture)</h4>
+}
+
+@code {
+    private double number1;
+    private double number2;
+    private double? result;
+
+    private void Add() => result = number1 + number2;
+    private void Subtract() => result = number1 - number2;
+    private void Multiply() => result = number1 * number2;
+    private void Divide()
+    {
+        if (number2 != 0)
+            result = number1 / number2;
+        else
+            result = null;
+    }
+}
