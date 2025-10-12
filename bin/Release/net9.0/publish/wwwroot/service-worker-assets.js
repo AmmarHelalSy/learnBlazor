@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "f+QcoFb6",
+  "version": "j5F+qDrh",
   "assets": [
     {
       "hash": "sha256-/WtOLz6mtpWuJsPh4IbQeOxYeE+svASjKepRWtYkSNo=",
@@ -14,8 +14,8 @@ self.assetsManifest = {
       "url": "_framework/Microsoft.AspNetCore.Components.WebAssembly.26c9tx9k9t.wasm"
     },
     {
-      "hash": "sha256-MIQAkbwY/9gy+/CnG3UtpUeWNyRMn26RmdDEMeIz3KU=",
-      "url": "_framework/Microsoft.AspNetCore.Components.wcqz4sq856.wasm"
+      "hash": "sha256-sHHUCjfPKaERi5hvpMS0KHSYv1t8It2Dxrtp+Ux0H58=",
+      "url": "_framework/Microsoft.AspNetCore.Components.wgt2c53y4x.wasm"
     },
     {
       "hash": "sha256-3ADlF4CLU1Q+dQbj0MnPVnEJPiA4q4Jv5xxmiGEvBks=",
@@ -62,8 +62,8 @@ self.assetsManifest = {
       "url": "_framework/Microsoft.JSInterop.WebAssembly.imfqvv3x5h.wasm"
     },
     {
-      "hash": "sha256-1k0XCFNIzBZfZWchggBDsKLH6F7IwomB9G3iNk0Xwhc=",
-      "url": "_framework/MyBlazorApp.ipg9tlq92c.wasm"
+      "hash": "sha256-l2aba4/sya991gBxzdH2ii9dxyCIWYJ3UMrGRTKdk64=",
+      "url": "_framework/MyBlazorApp.rrvzv3jh39.wasm"
     },
     {
       "hash": "sha256-P6B9N3fO7t6t5v872YlnIwVE4STt5o+KpUbMJycgBrs=",
@@ -114,8 +114,8 @@ self.assetsManifest = {
       "url": "_framework/System.Net.Primitives.yjcmep7m7h.wasm"
     },
     {
-      "hash": "sha256-tLRVvmQGW3DQdivw5/eu+kJ6vtsPFUSxB2MfULPUjqg=",
-      "url": "_framework/System.Private.CoreLib.s0fd6ijh7c.wasm"
+      "hash": "sha256-SgmY97VUXmQcxtj/g57A1ZnAKLxKs8ThIOqM1UIjUMA=",
+      "url": "_framework/System.Private.CoreLib.ufd1j3b611.wasm"
     },
     {
       "hash": "sha256-ObE2W8ZT2OOvhxcL5o9ArsW//W0chkJ5m6lO7P4bPng=",
@@ -126,8 +126,8 @@ self.assetsManifest = {
       "url": "_framework/System.Runtime.InteropServices.JavaScript.f7txb1es0b.wasm"
     },
     {
-      "hash": "sha256-1ZI6R9y7Eg/odNK57CwUASBdVSr3LN07fqtYNgeZtBE=",
-      "url": "_framework/System.Runtime.b4t3zpn95a.wasm"
+      "hash": "sha256-CVi3+/jpuCdpaq4GK0QhozFljq9virrWkcrBq8JMSTs=",
+      "url": "_framework/System.Runtime.tzcddyaxas.wasm"
     },
     {
       "hash": "sha256-QPumUm/+bRPi/T+QpPMfrlCeezAnzRk6CmD/iBskgiw=",
@@ -142,7 +142,7 @@ self.assetsManifest = {
       "url": "_framework/System.Text.RegularExpressions.3ddyst6dmo.wasm"
     },
     {
-      "hash": "sha256-enwfKlZ8vOygoHgbMMk8XejSWzjPGDVvZ6SmCzdpoyQ=",
+      "hash": "sha256-nJfJFqTur2KUQ1oti84cN26C3Yy/ba3S1eOStFGonZg=",
       "url": "_framework/blazor.boot.json"
     },
     {
