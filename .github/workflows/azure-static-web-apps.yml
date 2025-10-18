@@ -48,4 +48,3 @@ jobs:
           action: "upload"
           app_location: "build/wwwroot"
           api_location: ""
-          output_location: ""
