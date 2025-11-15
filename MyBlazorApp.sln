@@ -5,8 +5,6 @@ VisualStudioVersion = 17.14.36518.9
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp2", "..\WebApp2\WebApp2.csproj", "{E23D105B-8E8C-42DC-854E-8ABF7E517A71}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OCRDemo", "OCRDemo\OCRDemo.csproj", "{63847A43-D2FE-4D80-987B-615618D19D60}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,10 +15,6 @@ Global
 		{E23D105B-8E8C-42DC-854E-8ABF7E517A71}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E23D105B-8E8C-42DC-854E-8ABF7E517A71}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E23D105B-8E8C-42DC-854E-8ABF7E517A71}.Release|Any CPU.Build.0 = Release|Any CPU
-		{63847A43-D2FE-4D80-987B-615618D19D60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{63847A43-D2FE-4D80-987B-615618D19D60}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{63847A43-D2FE-4D80-987B-615618D19D60}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{63847A43-D2FE-4D80-987B-615618D19D60}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
